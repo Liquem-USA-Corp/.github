@@ -1,4 +1,4 @@
-<img width="1024" height="390" alt="AI Transformation Partner — Unlock Your AI Growth Potential" src="https://github.com/user-attachments/assets/ac2fcab5-adc7-4842-9fae-68b1ca7eb8ff" />
+<img width="1024" height="390" alt="AI Transformation Partner — Unlock Your AI Growth Potential" src="https://raw.githubusercontent.com/Liquem-USA-Corp/.github/main/profile/assets/banner.jpg" />
 
 # AI Transformation Partner
 
